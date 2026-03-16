@@ -16,5 +16,4 @@
 
 ---
 
-AI was used in this assignment to understand the usage of MongoDB compass and javascript syntax. It was used mainly as a way to fix any\
-syntax/runtime errors that would arise.
+AI was used in this assignment to understand the usage of MongoDB compass and javascript syntax. It was used mainly as a way to fix any syntax/runtime errors that would arise.
